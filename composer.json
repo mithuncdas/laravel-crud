@@ -1,0 +1,25 @@
+{
+    "name": "mithuncdas/laravel_crud",
+    "description": "simple crud",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mithun Das",
+            "email": "mithuncdas.cse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mithuncdas\\LaravelCRUD\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Mithuncdas\\LaravelCRUD\\CRUDServiceProvider"
+            ]
+        }
+    }
+}
