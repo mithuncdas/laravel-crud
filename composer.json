@@ -1,6 +1,7 @@
 {
     "name": "mithuncdas/laravel_crud",
     "description": "simple crud",
+    "version": "0.0.1",
     "license": "MIT",
     "authors": [
         {
